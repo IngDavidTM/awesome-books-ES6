@@ -28,7 +28,7 @@ $git clone git@github.com:IngDavidTM/awesome-books-ES6.git
 ```
 
 ### Live GitHub Page
-- Not available
+- https://ingdavidtm.github.io/awesome-books-ES6/
 
 ## Authors
 
